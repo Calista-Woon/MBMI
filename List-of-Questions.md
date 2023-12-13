@@ -2,47 +2,46 @@
 
 ## **① Make my subject better-thought-out.**
 
-- 【1】Ask me probing questions.
-- 【2】Challenge my assumptions.
-- 【3】Uncover my blind spots.
-- 【4】Ask me advanced probing questions.
+- 【a】Ask me probing questions.
+- 【b】Challenge my assumptions.
+- 【c】Uncover my blind spots.
+- 【d】Ask me advanced probing questions.
 
 ## **② What to do next?**
 
-- 【5】By steps.
-- 【6】By objectives.
-- 【7】By easy tasks first.
+- 【e】By steps.
+- 【f】By objectives.
 
 ## **③ What to focus on?**
 
-- 【8】KPIs.
-- 【9】By Pareto principle.
-- 【10】Risks.
-- 【11】ESG (Environmental, Social, & Governance).
+- 【g】KPIs.
+- 【h】By Pareto principle.
+- 【i】Risks.
+- 【j】ESG (Environmental, Social, & Governance).
 
 ## **④ Make it more profitable and/or marketable (if applicable)**
  
-- 【12】More sources of revenue.
-- 【13】More related products and services.
-- 【14】Potentially untapped sources of revenue.
-- 【15】Innovation-driven sources of revenue.
+- 【k】More sources of revenue.
+- 【l】More related products and services.
+- 【m】Potentially untapped sources of revenue.
+- 【n】Innovation-driven sources of revenue.
 
-- 【16】What do my markets need?
-- 【17】What do my markets want?
-- 【18】What do my markets value?
+- 【o】What do my markets need?
+- 【p】What do my markets want?
+- 【q】What do my markets value?
 
-- 【19】Branding advice.
-- 【20】Market segmentation advice.
-- 【21】Product and market development advice.
+- 【r】Branding advice.
+- 【s】Market segmentation advice.
+- 【t】Product and market development advice.
 
 ## **⑤ Make it more efficient (to save cost, time, etc.).**
 
-- 【22】By cutting wastes.
-- 【23】By minimising errors.
+- 【u】By cutting wastes.
+- 【v】By minimising errors.
 
 ## **⑥ Get creative.**
 
-- 【24】Game theory.
-- 【25】NLP (Neuro-linguistic programming).
-- 【26】40 TRIZ (Theory of Inventive Problem-solving) principles.
+- 【w】Game theory.
+- 【x】NLP (Neuro-linguistic programming).
+- 【y】40 TRIZ (Theory of Inventive Problem-solving) principles.
 
