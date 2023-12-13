@@ -25,9 +25,13 @@
 - 【l】More related products and services.
 - 【m】Potentially untapped sources of revenue.
 - 【n】Innovation-driven sources of revenue.
+
+  
 - 【o】What do my markets need?
 - 【p】What do my markets want?
 - 【q】What do my markets value?
+
+  
 - 【r】Branding advice.
 - 【s】Market segmentation advice.
 - 【t】Product and market development advice.
