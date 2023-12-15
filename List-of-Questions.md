@@ -1,4 +1,4 @@
-# Please message me a letter ( e.g., b ) from the below list of queries (questions) to tell me what you want.
+# Please message me a letter ( e.g., /b ) from the below list of queries (questions) to tell me what you want.
 
 ## **① Make my subject better-thought-out.**
 
