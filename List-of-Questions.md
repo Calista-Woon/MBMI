@@ -44,7 +44,7 @@
 - 【y/】By cutting wastes.
 - 【z/】By minimising errors.
 
-## **⑥ Get creative.**
+## **⑥ Get sophisticated.**
 
 - 【aa/】Game theory.
 - 【ab/】NLP (Neuro-linguistic programming).
