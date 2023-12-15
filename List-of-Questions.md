@@ -17,36 +17,36 @@
 - 【/g】KPIs.
 - 【/h】By Pareto principle.
 - 【/i】Pitfalls to watch out for.
-- 【/??????????】Benefits.
-- 【/j】ESG (Environmental, Social, & Governance).
+- 【/j】Benefits.
+- 【/k】ESG (Environmental, Social, & Governance).
 
 ## **④ Make it more profitable and/or marketable (if applicable)**
  
-- 【/k】More sources of revenue.
-- 【/l】More related products and services.
-- 【/m】Potentially untapped sources of revenue.
-- 【n】Innovation-driven sources of revenue.
+- 【/l】More sources of revenue.
+- 【/n】More related products and services.
+- 【/o】Potentially untapped sources of revenue.
+- 【/p】Innovation-driven sources of revenue.
 
 </br>
 
-- 【/o】What do my markets need?
-- 【/p】What do my markets want?
-- 【/q】What do my markets value?
+- 【/r】What do my markets need?
+- 【/t】What do my markets want?
+- 【/u】What do my markets value?
 
  </br>
  
-- 【/r】Branding advice.
-- 【/s】Market segmentation advice.
-- 【/t】Product and market development advice.
+- 【/v】Branding advice.
+- 【/w】Market segmentation advice.
+- 【/x】Product and market development advice.
 
 ## **⑤ Make it more efficient (to save cost, time, etc.).**
 
-- 【/u】By cutting wastes.
-- 【/v】By minimising errors.
+- 【/y】By cutting wastes.
+- 【/z】By minimising errors.
 
 ## **⑥ Get creative.**
 
-- 【/w】Game theory.
-- 【/x】NLP (Neuro-linguistic programming).
-- 【/y】40 TRIZ (Theory of Inventive Problem-solving) principles.
+- 【/aa】Game theory.
+- 【/ab】NLP (Neuro-linguistic programming).
+- 【/ac】40 TRIZ (Theory of Inventive Problem-solving) principles.
 
