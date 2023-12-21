@@ -11,37 +11,37 @@
 
 - 【e】By steps.
 - 【f】By objectives.
-- Documents to produce.
-- By deliverables,
+- 【g】Documents to produce.
+- 【h】By deliverables,
 
 ## **③ What to focus on?**
 
-- 【g】Process KPIs (Key Performance Indicators) and Metrics.
-- 【h】Mistakes to watch out for.
-- 【i】Pitfalls to watch out for.
-- 【j】What to gain (the benefits)?
-- 【k】ESG (Environmental, Social, & Governance).
+- 【i】Process KPIs (Key Performance Indicators) and Metrics.
+- 【j】Mistakes to watch out for.
+- 【k】Pitfalls to watch out for.
+- 【l】What to gain (the benefits)?
+- 【m】ESG (Environmental, Social, & Governance).
 
 ## **④ Make it more profitable and/or marketable (if applicable)**
  
-- 【l】More sources of revenue.
-- 【n】More related products and services.
-- 【o】Potentially untapped sources of revenue.
+- 【n】More sources of revenue.
+- 【o】More related products and services.
+- 【p】Potentially untapped sources of revenue.
 
 </br>
 
-- 【r】What do my markets need?
-- 【t】What do my markets want?
-- 【u】What do my markets value? 
-- 【v】Branding advice.
+- 【q】What do my markets need?
+- 【r】What do my markets want?
+- 【s】What do my markets value? 
+- 【t】Branding advice.
 
 ## **⑤ Make it more efficient (to save cost, time, etc.).**
 
-- 【y】By cutting wastes.
-- 【z】By minimising errors.
+- 【u】By cutting wastes.
+- 【v】By minimising errors.
 
 ## **⑥ Get sophisticated.**
 
-- 【aa】Game theory.
-- 【ab】NLP (Neuro-linguistic programming).
-- 【ac】40 TRIZ (Theory of Inventive Problem-solving) principles.
+- 【w】Game theory.
+- 【x】NLP (Neuro-linguistic programming).
+- 【y】40 TRIZ (Theory of Inventive Problem-solving) principles.
