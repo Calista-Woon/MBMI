@@ -12,7 +12,7 @@
 - 【e】By steps.
 - 【f】By objectives.
 - 【g】Documents to produce.
-- 【h】By deliverables,
+- 【h】By deliverables.
 
 ## **③ What to focus on?**
 
