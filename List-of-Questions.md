@@ -1,4 +1,4 @@
-# Please message me a letter from the below list of queries (questions) to tell me what you want.
+# Please message me a number from the below list of queries (questions) to tell me what you want.
 
 ## **① Make my subject better-thought-out.**
 
@@ -16,7 +16,7 @@
 
 ## **③ What to focus on?**
 
-- 【i】Process KPIs (Key Performance Indicators) and Metrics.
+- 【i】Process KPIs (Key Performance Indicators).
 - 【j】Mistakes to watch out for.
 - 【k】Pitfalls to watch out for.
 - 【l】What to gain (the benefits)?
