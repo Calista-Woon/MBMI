@@ -2,46 +2,47 @@
 
 ## **① Make my subject better-thought-out.**
 
-- 【a】Ask me probing questions.
-- 【b】Challenge my assumptions.
-- 【c】Uncover my blind spots.
-- 【d】Provoke my thoughts.
+- 【1】Ask me probing questions.
+- 【2】Challenge my assumptions.
+- 【3】Uncover my blind spots.
+- 【4】Provoke my thoughts.
 
 ## **② What to do next?**
 
-- 【e】By steps.
-- 【f】By objectives.
-- 【g】Documents to produce.
-- 【h】By deliverables.
+- 【5】By steps.
+- 【6】By objectives.
+- 【7】Documents to produce.
+- 【8】By deliverables.
 
 ## **③ What to focus on?**
 
-- 【i】Process KPIs (Key Performance Indicators).
-- 【j】Mistakes to watch out for.
-- 【k】Pitfalls to watch out for.
-- 【l】What to gain (the benefits)?
-- 【m】ESG (Environmental, Social, & Governance).
+- 【9】Process KPIs (Key Performance Indicators).
+- 【10】Mistakes to watch out for.
+- 【11】Pitfalls to watch out for.
+- 【12】What to gain (the benefits)?
+- 【13】Export-readiness / international expansion-readiness.
+- 【14】ESG (Environmental, Social, & Governance).
 
 ## **④ Make it more profitable and/or marketable (if applicable)**
  
-- 【n】More sources of revenue.
-- 【o】More related products and services.
-- 【p】Potentially untapped sources of revenue.
+- 【15】More sources of revenue.
+- 【16】More related products and services.
+- 【17】Potentially untapped sources of revenue.
 
 </br>
 
-- 【q】What do my markets need?
-- 【r】What do my markets want?
-- 【s】What do my markets value? 
-- 【t】Branding advice.
+- 【18】What do my markets need?
+- 【19】What do my markets want?
+- 【20】What do my markets value? 
+- 【21】Branding advice.
 
 ## **⑤ Make it more efficient (to save cost, time, etc.).**
 
-- 【u】By cutting wastes.
-- 【v】By minimising errors.
+- 【22】By cutting wastes.
+- 【23】By minimising errors.
 
 ## **⑥ Get sophisticated.**
 
-- 【w】Game theory.
-- 【x】NLP (Neuro-linguistic programming).
-- 【y】40 TRIZ (Theory of Inventive Problem-solving) principles.
+- 【24】Game theory.
+- 【25】NLP (Neuro-linguistic programming).
+- 【26】40 TRIZ (Theory of Inventive Problem-solving) principles.
