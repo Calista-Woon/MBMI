@@ -2,7 +2,7 @@
 
 ## **① Make my subject better-thought-out.**
 
-- 【1】Ask me probing questions.
+- 【1】Ask me key questions.
 - 【2】Challenge my assumptions.
 - 【3】Uncover my blind spots.
 - 【4】Provoke my thoughts.
@@ -16,7 +16,7 @@
 
 ## **③ What to focus on?**
 
-- 【9】Process KPIs (Key Performance Indicators).
+- 【9】KPIs (Key Performance Indicators).
 - 【10】Mistakes to watch out for.
 - 【11】Pitfalls to watch out for.
 - 【12】What to gain (the benefits)?
