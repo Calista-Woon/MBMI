@@ -2,7 +2,7 @@
 
 ## **① Make my subject better-thought-out.**
 
-- 【1】Ask me key questions.
+- 【1】Ask me probing questions.
 - 【2】Challenge my assumptions.
 - 【3】Uncover my blind spots.
 - 【4】Provoke my thoughts.
