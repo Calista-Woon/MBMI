@@ -23,13 +23,14 @@
 - 【13】Export-readiness / international expansion-readiness.
 - 【14】ESG (Environmental, Social, & Governance).
 
-## **④ Make it more profitable and/or marketable (if applicable)**
+## **④ Make it more profitable (if applicable)**
  
 - 【15】More sources of revenue.
 - 【16】More related products and services.
 - 【17】Potentially untapped sources of revenue.
 
-</br>
+## **④ Make it more marketable (if applicable)**
+
 
 - 【18】What do my markets need?
 - 【19】What do my markets want?
